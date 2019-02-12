@@ -1,3 +1,6 @@
+django
+gunicorn
+django-heroku
 asn1crypto==0.24.0
 bcrypt==3.1.6
 certifi==2018.11.29
